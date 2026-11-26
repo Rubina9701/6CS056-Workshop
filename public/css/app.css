@@ -35,6 +35,10 @@ body {
     border-bottom: 2px solid #ffffff;
 }
 
+.navbar .btn {
+    margin-left: 20px;
+}
+
 .container {
     flex: 1;
     width: 100%;
@@ -97,6 +101,7 @@ td {
 
 .form-group input[type="text"],
 .form-group input[type="email"],
+.form-group input[type="password"],
 .form-group input[type="date"],
 .form-group input[type="number"],
 .form-group select,
